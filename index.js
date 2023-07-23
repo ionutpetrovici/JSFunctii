@@ -114,3 +114,16 @@
 
 // Hint: Pentru a rezolva problema, vom folosi operatorul spread / rest (...) pentru a defini argumentele funcției:
 // const addNumber = (…argumente) ⇒ {}  ???????
+
+
+// function addNumber(...numbers) {
+//   let sum = 0;
+//   for (let i = 0; i < numbers.length; i++) {
+//     sum += numbers[i];
+//   }
+//   return sum;
+// } 
+
+// console.log(addNumber(1, 2, 3)); // 6
+// console.log(addNumber(1, 2, 3, 4, 5)); // 15
+// console.log(addNumber(4, 4, 5, 6)); // 19
