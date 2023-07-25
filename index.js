@@ -29,6 +29,22 @@
 // console.log(findSquare(-12));
 
 
+// // SAU
+
+
+// function map(array, callBack) {
+//   let result = [];
+//   for (let i = 0; i < array.length; i++) {
+//     result.push(callBack(array[i]));
+//   }
+//   return result;
+// }
+
+// let numbers = [6, 10, 0, -12];
+// let squaredNumbers = map(numbers, (num) => num * num);
+// console.log(squaredNumbers);
+
+
 // 2. Scrieți o funcție pentru a genera un număr aleatoriu mai mare sau egal cu o variabilă start și strict mai mic decât o variabilă end . Aceste două variabile sunt capetele intervalului pentru numărul general: [start, end)
 
 // Funcția getRandom(start, end) returnează un număr întreg aleator generat în intervalul definit de variabilele de început și sfârșit furnizate.
