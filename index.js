@@ -88,7 +88,7 @@
 //     // verificam dacă caracterul este în acea poziție
 
 //     if (str.charAt(i) === letter) {
-//       count += 1;
+//       count ++;
 //     }
 //   }
 //   return count;
