@@ -87,7 +87,7 @@
     
 //     // verificam dacă caracterul este în acea poziție
 
-//     if (str.charAt(i) === letter) {
+//     if (str.toLowerCase().charAt(i) === letter.toLowerCase()) {
 //       count ++;
 //     }
 //   }
